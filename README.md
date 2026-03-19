@@ -1,5 +1,11 @@
 # 💫 About Me:
-I am a JLPT N4 Certified AI & Data Science student with a strong passion for building intelligent systems and solving real-world problems through technology. As an aspiring AI Engineer, I specialize in Python programming, Machine Learning, Data Analysis, and Artificial Intelligence development.<br><br>With hands-on experience in 10+ projects using Python, I have developed practical solutions involving data preprocessing, exploratory data analysis (EDA), predictive modeling, automation, and AI-based applications. My technical toolkit includes:<br><br>Python (NumPy, Pandas, Matplotlib, Scikit-learn)<br>Machine Learning & Data Science<br>Artificial Intelligence fundamentals<br>Java programming<br>Data Structures & Algorithms<br><br>Automation & Scripting<br><br>Beyond programming, I also bring creativity to the table as an editor and designer, allowing me to blend analytical thinking with visual storytelling and user-focused design.<br><br>I am continuously learning and exploring advanced topics in:<br><br>Deep Learning<br>Natural Language Processing (NLP)<br>Computer Vision<br>AI-powered applications<br><br>I am open to internships, collaborations, research opportunities, and entry-level roles in Artificial Intelligence, Data Science, and Machine Learning.<br><br>Let’s connect and build the future with AI
+Aspiring AI Engineer pursuing B.Tech in Artificial Intelligence & Data Science at Mahendra Institutions (2024–2028). I build real-world Python solutions across machine learning, data analysis, and AI applications — with 10+ hands-on projects completed.
+
+My core stack: Python (NumPy, Pandas, Scikit-learn, Matplotlib), Machine Learning, Data Structures & Algorithms, and Java. I'm currently deepening my expertise in Deep Learning, NLP, and Computer Vision.
+Additionally, I hold JLPT N4 certification in Japanese — a rare edge for roles involving Japanese tech firms or global teams.
+
+I'm actively looking for internships and entry-level roles in AI, Data Science, and Machine Learning where I can contribute, learn fast, and grow.
+Let’s connect and build the future with AI
 
 
 ## 🌐 Socials:
