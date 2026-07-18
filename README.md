@@ -24,6 +24,18 @@ akash = {
 
 ---
 
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **[Internal Docs Hybrid Search RAG](https://github.com/akashvoffi-design/internal-docs-rag)** | Full-stack RAG app for querying internal documents with hybrid keyword + vector search and local embeddings | Next.js · Supabase (pgvector) · Groq Llama 3 · LangChain |
+| **IMDb Movie Rating Scraper** | Scrapes and analyzes IMDb movie ratings | Python · Selenium · Pandas |
+| **Cryptocurrency Price Tracker** | Real-time crypto price tracking tool | Python |
+
+> More projects pinned below ⬇️
+
+---
+
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -31,7 +43,7 @@ akash = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akash-tech-ai)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_.aakaashhhhh)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/@px_Akash)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akash.voffi@gamil.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akash.voffi@gmail.com)
 
 </div>
 
@@ -57,6 +69,7 @@ akash = {
 
 **Frameworks & Tools**
 
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
