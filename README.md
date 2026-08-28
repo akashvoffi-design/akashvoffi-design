@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Akash%20V&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20ML%20Developer%20%7C%20Data%20Science%20Enthusiast&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,8,15&height=180&section=header&text=Akash%20V&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20ML%20Developer%20%7C%20Data%20Science%20Enthusiast&descAlignY=55&descSize=16" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+AI+Solutions+%F0%9F%A4%96;Machine+Learning+%7C+Deep+Learning+%7C+NLP;10%2B+Real-World+Projects+Completed+%F0%9F%9A%80;JLPT+N4+Certified+%F0%9F%87%AF%F0%9F%87%B5;Open+to+Internships+%26+Entry-Level+Roles!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF6B9D&center=true&vCenter=true&width=650&lines=Building+AI+Solutions+%F0%9F%A4%96;Machine+Learning+%7C+Deep+Learning+%7C+NLP;10%2B+Real-World+Projects+Shipped+%F0%9F%9A%80;JLPT+N3+Certified+%F0%9F%87%AF%F0%9F%87%B5;Open+to+Internships+%26+Entry-Level+Roles!)](https://git.io/typing-svg)
 
 </div>
 
@@ -17,7 +17,7 @@ akash = {
     "focus"    : ["Machine Learning", "Deep Learning", "NLP", "Computer Vision"],
     "stack"    : ["Python", "NumPy", "Pandas", "Scikit-learn", "TensorFlow", "PyTorch"],
     "projects" : "10+ hands-on real-world projects",
-    "bonus"    : "JLPT N4 Certified 🇯🇵",
+    "bonus"    : "JLPT N3 Certified 🇯🇵",
     "status"   : "Actively seeking Internships & Entry-Level AI/ML Roles 🚀"
 }
 ```
@@ -95,14 +95,14 @@ akash = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=akashvoffi-design&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashvoffi-design&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=akashvoffi-design&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashvoffi-design&layout=compact&theme=radical&hide_border=true" height="165"/>
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=akashvoffi-design&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=akashvoffi-design&theme=radical&hide_border=true)
 
 </div>
 
@@ -112,7 +112,7 @@ akash = {
 
 <div align="center">
 
-![](https://github-contributor-stats.vercel.app/api?username=akashvoffi-design&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=akashvoffi-design&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 </div>
 
@@ -120,8 +120,8 @@ akash = {
 
 <div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=akashvoffi-design&icon=1&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=akashvoffi-design&icon=1&color=2)](https://visitcount.itsvg.in)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,8,15&height=100&section=footer" width="100%"/>
 
 </div>
