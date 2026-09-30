@@ -1,127 +1,197 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,8,15&height=180&section=header&text=Akash%20V&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AI%20Engineer%20%7C%20ML%20Developer%20%7C%20Data%20Science%20Enthusiast&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D0D0D,55:E10600,100:FFFFFF&height=230&section=header&text=AKASH%20V&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20ML%20Developer%20%E2%80%A2%20Data%20Science%20Enthusiast&descAlignY=62&descSize=16" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF6B9D&center=true&vCenter=true&width=650&lines=Building+AI+Solutions+%F0%9F%A4%96;Machine+Learning+%7C+Deep+Learning+%7C+NLP;10%2B+Real-World+Projects+Shipped+%F0%9F%9A%80;JLPT+N3+Certified+%F0%9F%87%AF%F0%9F%87%B5;Open+to+Internships+%26+Entry-Level+Roles!)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF3B3B&center=true&vCenter=true&width=700&lines=%F0%9F%A7%A0+Building+AI+Solutions;%E2%9A%A1+Machine+Learning+%7C+Deep+Learning+%7C+NLP;%F0%9F%9A%80+10%2B+Real-World+Projects+Shipped;%F0%9F%87%AF%F0%9F%87%B5+JLPT+N3+Certified;%F0%9F%92%BC+Open+to+Internships+%26+Entry-Level+Roles" alt="Typing SVG"/></a>
+
+<br/>
+
+![Status](https://img.shields.io/badge/%F0%9F%9F%A2_OPEN_TO_WORK-E10600?style=for-the-badge)
+![Projects](https://img.shields.io/badge/%F0%9F%9A%80_10%2B_PROJECTS-FFFFFF?style=for-the-badge)
+![JLPT](https://img.shields.io/badge/%F0%9F%87%AF%F0%9F%87%B5_JLPT_N3-E10600?style=for-the-badge)
+![Batch](https://img.shields.io/badge/%F0%9F%8E%93_BATCH_2024--2028-FFFFFF?style=for-the-badge)
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E10600,100:FFFFFF&height=2&section=header" width="100%"/>
 
-## 🧠 About Me
+## 👨‍💻 &nbsp;About Me
+
+<table>
+<tr>
+<td width="60%" valign="top">
 
 ```python
 akash = {
     "degree"   : "B.Tech in AI & Data Science (2024–2028)",
     "college"  : "Mahendra Institutions",
-    "focus"    : ["Machine Learning", "Deep Learning", "NLP", "Computer Vision"],
-    "stack"    : ["Python", "NumPy", "Pandas", "Scikit-learn", "TensorFlow", "PyTorch"],
+    "focus"    : ["Machine Learning", "Deep Learning",
+                  "NLP", "Computer Vision"],
+    "stack"    : ["Python", "NumPy", "Pandas",
+                  "Scikit-learn", "TensorFlow", "PyTorch"],
     "projects" : "10+ hands-on real-world projects",
     "bonus"    : "JLPT N3 Certified 🇯🇵",
-    "status"   : "Actively seeking Internships & Entry-Level AI/ML Roles 🚀"
+    "status"   : "Seeking Internships & Entry-Level AI/ML Roles 🚀"
 }
 ```
 
----
+</td>
+<td width="40%" valign="top">
 
-## 🚀 Featured Projects
+🎯 **Focus** — ML · DL · NLP · CV<br/><br/>
+🏗️ **Building** — End-to-end AI apps<br/><br/>
+📚 **Learning** — RAG & Agentic AI<br/><br/>
+🈶 **Language** — Japanese (N3)<br/><br/>
+🤝 **Looking for** — AI/ML internships
 
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **[Internal Docs Hybrid Search RAG](https://github.com/akashvoffi-design/internal-docs-rag)** | Full-stack RAG app for querying internal documents with hybrid keyword + vector search and local embeddings | Next.js · Supabase (pgvector) · Groq Llama 3 · LangChain |
-| **IMDb Movie Rating Scraper** | Scrapes and analyzes IMDb movie ratings | Python · Selenium · Pandas |
-| **Cryptocurrency Price Tracker** | Real-time crypto price tracking tool | Python |
+</td>
+</tr>
+</table>
 
-> More projects pinned below ⬇️
+## 🏢 &nbsp;Experience
 
----
+| 🗓️ Period | 💼 Role | 🏢 Company |
+| :-- | :-- | :-- |
+| May 2026 – Present | Python Project Intern · Data & Preprocessing Lead (Skin Disease Classification) | **Cybernaut Edtech** |
+| Apr – May 2026 | AI/ML Intern | **Litz Tech** |
 
-## 🌐 Connect With Me
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E10600,100:FFFFFF&height=2&section=header" width="100%"/>
+
+## 🚀 &nbsp;Featured Projects
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🔍 Docs Hybrid Search RAG
+Full-stack RAG app for querying internal documents with hybrid keyword + vector search and local embeddings.
+
+`Next.js` `Supabase pgvector` `Groq Llama 3` `LangChain`
+
+[🔗 View Repo](https://github.com/akashvoffi-design/internal-docs-rag)
+
+</td>
+<td width="33%" valign="top">
+
+### 🧘 MindPulse
+Full-stack AI mental wellness web app with **84%** emotion recognition accuracy.
+
+`Deep Learning` `React` `Flask`
+
+</td>
+<td width="33%" valign="top">
+
+### 🕵️ ShadowHunt
+Real-time deepfake detection and identity verification with **91%** detection accuracy.
+
+`Computer Vision` `OpenCV` `PyTorch`
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+### 🎙️ SORA AI Agent
+Voice-controlled laptop AI agent.
+
+`Python` `Speech` `Agents`
+
+</td>
+<td width="33%" valign="top">
+
+### 🎬 IMDb Rating Scraper
+Scrapes and analyzes IMDb movie ratings.
+
+`Python` `Selenium` `Pandas`
+
+</td>
+<td width="33%" valign="top">
+
+### ₿ Crypto Price Tracker
+Real-time cryptocurrency price tracking tool.
+
+`Python`
+
+</td>
+</tr>
+</table>
+
+> 📌 More projects pinned below ⬇️
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E10600,100:FFFFFF&height=2&section=header" width="100%"/>
+
+## 🛠️ &nbsp;Tech Stack
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akash-tech-ai)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_.aakaashhhhh)
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/@px_Akash)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akash.voffi@gmail.com)
+**🐍 Languages**<br/>
+<img src="https://skillicons.dev/icons?theme=dark&i=py,java,cpp,html,css,js" />
+
+<br/>
+
+**🤖 AI / ML / Data Science**<br/>
+<img src="https://skillicons.dev/icons?theme=dark&i=tensorflow,pytorch,sklearn,opencv" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="48" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="48" />
+
+<br/>
+
+**⚙️ Frameworks & Tools**<br/>
+<img src="https://skillicons.dev/icons?theme=dark&i=nextjs,fastapi,flask,nodejs,docker" /> <img src="https://api.iconify.design/logos/microsoft-power-bi.svg" height="48" />
+
+<br/>
+
+**🗄️ Databases**<br/>
+<img src="https://skillicons.dev/icons?theme=dark&i=mysql,mongodb,sqlite,supabase,postgres" />
+
+<br/>
+
+**🎨 Dev & Design**<br/>
+<img src="https://skillicons.dev/icons?theme=dark&i=git,github,vscode" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="48" /> <img src="https://api.iconify.design/logos/adobe-lightroom.svg" height="48" />
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E10600,100:FFFFFF&height=2&section=header" width="100%"/>
 
-## 💻 Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-
-**AI / ML / Data Science**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-
-**Frameworks & Tools**
-
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-**Databases**
-
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-**Dev & Design**
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white)
-
----
-
-## 📊 GitHub Stats
+## 📊 &nbsp;GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=akashvoffi-design&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashvoffi-design&layout=compact&theme=radical&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=akashvoffi-design&show_icons=true&count_private=true&bg_color=0D0D0D&title_color=FF3B3B&text_color=FFFFFF&icon_color=FF3B3B&border_color=E10600&border_radius=12" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashvoffi-design&layout=compact&bg_color=0D0D0D&title_color=FF3B3B&text_color=FFFFFF&border_color=E10600&border_radius=12" height="165"/>
+
+<img src="https://streak-stats.demolab.com?user=akashvoffi-design&background=0D0D0D&ring=FF3B3B&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FF3B3B&currStreakLabel=FF3B3B&sideLabels=FFFFFF&dates=CCCCCC&stroke=E10600&border=E10600&border_radius=12" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=akashvoffi-design&bg_color=0D0D0D&color=FF3B3B&line=E10600&point=FFFFFF&area=true&area_color=E10600&hide_border=true" width="95%"/>
 
 </div>
 
+## 🏆 &nbsp;Achievements
+
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=akashvoffi-design&theme=radical&hide_border=true)
+<img src="https://github-profile-trophy.vercel.app/?username=akashvoffi-design&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1" />
 
 </div>
 
----
+- 🥇 **Best Supportive Student Award** — NextGen 2K26
+- 🥈 **2nd Place** — Code Relay
+- 📜 **IBM ML Certification** · **Tech Trio Certification**
+- 🇯🇵 **JLPT N3** — Japan Foundation, 2026
 
-## 🏆 Top Contributed Repos
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E10600,100:FFFFFF&height=2&section=header" width="100%"/>
 
-<div align="center">
-
-![](https://github-contributor-stats.vercel.app/api?username=akashvoffi-design&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
-</div>
-
----
+## 🌐 &nbsp;Let's Connect
 
 <div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-E10600?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akash-tech-ai)
+[![Instagram](https://img.shields.io/badge/Instagram-E10600?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_.aakaashhhhh)
+[![X](https://img.shields.io/badge/X-E10600?style=for-the-badge&logo=x&logoColor=white)](https://x.com/px_Akash)
+[![Gmail](https://img.shields.io/badge/Gmail-E10600?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akash.voffi@gmail.com)
+
+<br/>
 
 [![](https://visitcount.itsvg.in/api?id=akashvoffi-design&icon=1&color=2)](https://visitcount.itsvg.in)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,8,15&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,50:E10600,100:0D0D0D&height=110&section=footer" width="100%"/>
 
 </div>
