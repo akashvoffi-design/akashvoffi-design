@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D0D0D,55:E10600,100:FFFFFF&height=230&section=header&text=AKASH%20V&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%E2%80%A2%20ML%20Developer%20%E2%80%A2%20Data%20Science%20Enthusiast&descAlignY=62&descSize=16" width="100%"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF3B3B&center=true&vCenter=true&width=700&lines=%F0%9F%A7%A0+Building+AI+Solutions;%E2%9A%A1+Machine+Learning+%7C+Deep+Learning+%7C+NLP;%F0%9F%9A%80+10%2B+Real-World+Projects+Shipped;%F0%9F%87%AF%F0%9F%87%B5+JLPT+N3+Certified;%F0%9F%92%BC+Open+to+Internships+%26+Entry-Level+Roles" alt="Typing SVG"/></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF3B3B&center=true&vCenter=true&width=700&lines=%F0%9F%A7%A0+Building+AI+Solutions;%E2%9A%A1+Machine+Learning+%7C+Deep+Learning+%7C+NLP;%F0%9F%A4%96+Agentic+AI+%7C+RAG+%7C+Computer+Vision;%F0%9F%9A%80+10%2B+Real-World+Projects+Shipped;%F0%9F%87%AF%F0%9F%87%B5+JLPT+N3+Certified;%F0%9F%92%BC+Open+to+Internships+%26+Entry-Level+Roles" alt="Typing SVG"/></a>
 
 <br/>
 
@@ -24,12 +24,12 @@
 ```python
 akash = {
     "degree"   : "B.Tech in AI & Data Science (2024–2028)",
-    "college"  : "Mahendra Institutions",
+    "college"  : "Mahendra Engineering College (Autonomous)",
     "focus"    : ["Machine Learning", "Deep Learning",
-                  "NLP", "Computer Vision"],
-    "stack"    : ["Python", "NumPy", "Pandas",
-                  "Scikit-learn", "TensorFlow", "PyTorch"],
-    "projects" : "10+ hands-on real-world projects",
+                  "NLP", "Computer Vision", "Agentic AI"],
+    "stack"    : ["Python", "TensorFlow", "PyTorch", "OpenCV",
+                  "Transformers", "React", "Flask", "Supabase"],
+    "projects" : "10+ end-to-end AI/ML projects",
     "bonus"    : "JLPT N3 Certified 🇯🇵",
     "status"   : "Seeking Internships & Entry-Level AI/ML Roles 🚀"
 }
@@ -40,7 +40,7 @@ akash = {
 
 🎯 **Focus** — ML · DL · NLP · CV<br/><br/>
 🏗️ **Building** — End-to-end AI apps<br/><br/>
-📚 **Learning** — RAG & Agentic AI<br/><br/>
+📚 **Learning** — RAG, Agentic AI & RL<br/><br/>
 🈶 **Language** — Japanese (N3)<br/><br/>
 🤝 **Looking for** — AI/ML internships
 
@@ -63,16 +63,6 @@ akash = {
 <tr>
 <td width="33%" valign="top">
 
-### 🔍 Docs Hybrid Search RAG
-Full-stack RAG app for querying internal documents with hybrid keyword + vector search and local embeddings.
-
-`Next.js` `Supabase pgvector` `Groq Llama 3` `LangChain`
-
-[🔗 View Repo](https://github.com/akashvoffi-design/internal-docs-rag)
-
-</td>
-<td width="33%" valign="top">
-
 ### 🧘 MindPulse
 Full-stack AI mental wellness web app with **84%** emotion recognition accuracy.
 
@@ -87,36 +77,72 @@ Real-time deepfake detection and identity verification with **91%** detection ac
 `Computer Vision` `OpenCV` `PyTorch`
 
 </td>
+<td width="33%" valign="top">
+
+### 🎙️ SORA AI Agent
+Voice-controlled laptop AI agent with speech input and LLM-driven actions.
+
+`Whisper` `Claude API` `LiveKit`
+
+</td>
 </tr>
 <tr>
 <td width="33%" valign="top">
 
-### 🎙️ SORA AI Agent
-Voice-controlled laptop AI agent.
+### 🔍 Docs Hybrid Search RAG
+Full-stack RAG app for querying internal documents with hybrid keyword + vector search and local embeddings.
 
-`Python` `Speech` `Agents`
+`Next.js` `Supabase pgvector` `Groq Llama 3` `LangChain`
 
-</td>
-<td width="33%" valign="top">
-
-### 🎬 IMDb Rating Scraper
-Scrapes and analyzes IMDb movie ratings.
-
-`Python` `Selenium` `Pandas`
+[🔗 View Repo](https://github.com/akashvoffi-design/internal-docs-rag)
 
 </td>
 <td width="33%" valign="top">
 
-### ₿ Crypto Price Tracker
-Real-time cryptocurrency price tracking tool.
+### 🤖 Agentic RAG
+Agentic RAG architecture with tool-using agents and streaming responses.
 
-`Python`
+`FastAPI` `LangChain` `ChromaDB` `React`
+
+</td>
+<td width="33%" valign="top">
+
+### 🩺 Skin Disease Classification
+Team project classifying skin lesions from dermoscopic images (HAM10000). I led data & preprocessing.
+
+`CNN` `TensorFlow` `Keras`
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
+
+### 🛒 Smart Shopping Cart
+Automated-checkout cart using computer vision and IoT sensors.
+
+`YOLOv8` `HX711` `MQTT` `PostgreSQL`
+
+</td>
+<td width="33%" valign="top">
+
+### 🔥 EmberWatch AI
+Forest fire early-warning dashboard fed by ESP32 sensor nodes.
+
+`ESP32` `IoT` `Dashboard`
+
+</td>
+<td width="33%" valign="top">
+
+### 🈶 JLPT RL Scheduler
+RL-based vocabulary scheduler that adapts Japanese study sessions.
+
+`DQN` `Gymnasium` `Supabase` `React`
 
 </td>
 </tr>
 </table>
 
-> 📌 More projects pinned below ⬇️
+**More:** 😴 Sleep Quality Predictor (ML + React/Flask) · 🎬 IMDb Rating Scraper (Selenium, Pandas) · ₿ Crypto Price Tracker (Python)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E10600,100:FFFFFF&height=2&section=header" width="100%"/>
 
@@ -125,7 +151,7 @@ Real-time cryptocurrency price tracking tool.
 <div align="center">
 
 **🐍 Languages**<br/>
-<img src="https://skillicons.dev/icons?theme=dark&i=py,java,cpp,html,css,js" />
+<img src="https://skillicons.dev/icons?theme=dark&i=py,java,cpp,r,html,css,js" />
 
 <br/>
 
@@ -135,7 +161,7 @@ Real-time cryptocurrency price tracking tool.
 <br/>
 
 **⚙️ Frameworks & Tools**<br/>
-<img src="https://skillicons.dev/icons?theme=dark&i=nextjs,fastapi,flask,nodejs,docker" /> <img src="https://api.iconify.design/logos/microsoft-power-bi.svg" height="48" />
+<img src="https://skillicons.dev/icons?theme=dark&i=react,nextjs,fastapi,flask,nodejs,docker,gcp" /> <img src="https://api.iconify.design/logos/microsoft-power-bi.svg" height="48" />
 
 <br/>
 
